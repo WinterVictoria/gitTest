@@ -1,2 +1,3 @@
 我的第一个git demo！
 我是Alice，hi。
+我不是团队成员！
